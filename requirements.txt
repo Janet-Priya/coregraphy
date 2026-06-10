@@ -1,10 +1,30 @@
-pandas
-numpy
-sentence-transformers
-bertopic
-umap-learn
-hdbscan
-plotly
-scikit-learn
-jupyter
+# Pinned to the versions that run locally on Python 3.10.
+#
+# Streamlit Cloud was building on Python 3.14 with these deps unpinned, so the
+# resolver pulled the *latest* transformers — which eagerly imports a torchvision
+# module (torchvision is not installed, and isn't needed) and crashed at startup.
+# Pinning transformers to 4.40.0 avoids that import entirely.
+#
+# IMPORTANT: also set the app's Python version to 3.10 in Streamlit Cloud
+# (Manage app → ⋮ → Settings → Python version), then reboot. Matching the local
+# Python is what makes these pinned wheels resolve correctly.
+
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+scipy==1.15.3
+plotly==6.8.0
 tqdm
+
+# ML stack — transformers MUST stay <4.41 to avoid the torchvision import.
+torch==2.12.0
+transformers==4.40.0
+tokenizers==0.19.1
+huggingface-hub==0.36.2
+sentence-transformers==2.7.0
+
+# clustering / dimensionality reduction
+bertopic==0.17.4
+umap-learn==0.5.12
+hdbscan==0.8.44
+numba==0.65.1
