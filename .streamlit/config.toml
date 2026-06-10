@@ -1,0 +1,12 @@
+# Cozy warm theme — overrides Streamlit's defaults so the app stops looking
+# like a stock Streamlit page. This kills the three biggest "tells":
+#   primaryColor             -> the red button + red slider become cozy green
+#   secondaryBackgroundColor -> the bluish input/widget fill becomes warm card
+#   backgroundColor/textColor/font -> match the pixel-art palette
+[theme]
+base = "dark"
+primaryColor = "#83a85f"             # cozy leaf green: buttons, slider, active states
+backgroundColor = "#161310"          # warm near-black page background
+secondaryBackgroundColor = "#201d17" # warm card: inputs, sidebar, widgets
+textColor = "#ece4d2"                # cream
+font = "monospace"                   # leans into the retro/pixel vibe

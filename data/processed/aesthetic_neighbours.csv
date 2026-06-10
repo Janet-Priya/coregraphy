@@ -1,0 +1,146 @@
+aesthetic,neighbour,similarity
+Dark Academia,Light Academia,0.695
+Dark Academia,Cyberpunk,0.486
+Dark Academia,Goth,0.483
+Dark Academia,Corporate Goth,0.458
+Dark Academia,Indie Sleaze,0.431
+Light Academia,Dark Academia,0.695
+Light Academia,Cottagecore,0.426
+Light Academia,Goth,0.423
+Light Academia,Fairycore,0.414
+Light Academia,Maximalism,0.412
+Cottagecore,Cozycore,0.567
+Cottagecore,Gardencore,0.553
+Cottagecore,Fairycore,0.548
+Cottagecore,Lifestyle Minimalism,0.529
+Cottagecore,Bloomcore,0.521
+Goblincore,Fairycore,0.584
+Goblincore,Gardencore,0.457
+Goblincore,Dreamcore,0.444
+Goblincore,Cottagecore,0.432
+Goblincore,Cozycore,0.429
+Fairycore,Dreamcore,0.625
+Fairycore,Cozycore,0.589
+Fairycore,Goblincore,0.584
+Fairycore,Bloomcore,0.578
+Fairycore,Cottagecore,0.548
+Coquette,Cottagecore,0.403
+Coquette,Indie Sleaze,0.392
+Coquette,Kawaii,0.376
+Coquette,Baddie,0.374
+Coquette,Hypebeast,0.364
+Baddie,Cyberprep,0.452
+Baddie,Gorpcore,0.449
+Baddie,Indie Sleaze,0.425
+Baddie,Health Goth,0.424
+Baddie,Hypebeast,0.419
+Coastal Grandmother,Grandmacore,0.498
+Coastal Grandmother,Lifestyle Minimalism,0.479
+Coastal Grandmother,Cottagecore,0.431
+Coastal Grandmother,Maximalism,0.419
+Coastal Grandmother,Indie Sleaze,0.394
+Gorpcore,Cozycore,0.501
+Gorpcore,Hypebeast,0.495
+Gorpcore,Cybergoth,0.485
+Gorpcore,Cyberprep,0.479
+Gorpcore,Health Goth,0.457
+Indie Sleaze,Hypebeast,0.575
+Indie Sleaze,Cybergoth,0.541
+Indie Sleaze,Goth,0.534
+Indie Sleaze,Cyberprep,0.508
+Indie Sleaze,Grunge,0.504
+Grunge,Indie Sleaze,0.504
+Grunge,Goth,0.468
+Grunge,Hypebeast,0.399
+Grunge,Health Goth,0.377
+Grunge,Cybergoth,0.368
+Kawaii,Bloomcore,0.397
+Kawaii,Fairycore,0.392
+Kawaii,Dreamcore,0.378
+Kawaii,Coquette,0.376
+Kawaii,Cozycore,0.363
+Hypebeast,Indie Sleaze,0.575
+Hypebeast,Gorpcore,0.495
+Hypebeast,Cyberprep,0.493
+Hypebeast,Health Goth,0.492
+Hypebeast,Cybergoth,0.472
+Craftcore,Cozycore,0.611
+Craftcore,Bloomcore,0.575
+Craftcore,Fairycore,0.53
+Craftcore,Gardencore,0.497
+Craftcore,Grandmacore,0.485
+Cyberpunk,Cyberprep,0.658
+Cyberpunk,Cybergoth,0.564
+Cyberpunk,Dark Academia,0.486
+Cyberpunk,Indie Sleaze,0.397
+Cyberpunk,Dreamcore,0.362
+Balletcore,Cozycore,0.472
+Balletcore,Fairycore,0.458
+Balletcore,Craftcore,0.44
+Balletcore,Health Goth,0.432
+Balletcore,Cybergoth,0.425
+Bloomcore,Cozycore,0.635
+Bloomcore,Gardencore,0.608
+Bloomcore,Fairycore,0.578
+Bloomcore,Craftcore,0.575
+Bloomcore,Cottagecore,0.521
+Gardencore,Bloomcore,0.608
+Gardencore,Cottagecore,0.553
+Gardencore,Cozycore,0.539
+Gardencore,Fairycore,0.538
+Gardencore,Craftcore,0.497
+Cozycore,Bloomcore,0.635
+Cozycore,Craftcore,0.611
+Cozycore,Fairycore,0.589
+Cozycore,Cottagecore,0.567
+Cozycore,Dreamcore,0.564
+Cleancore,Craftcore,0.47
+Cleancore,Cozycore,0.446
+Cleancore,Maximalism,0.416
+Cleancore,Gorpcore,0.403
+Cleancore,Baddie,0.397
+Dreamcore,Fairycore,0.625
+Dreamcore,Cozycore,0.564
+Dreamcore,Indie Sleaze,0.503
+Dreamcore,Craftcore,0.459
+Dreamcore,Cottagecore,0.445
+Cybergoth,Cyberprep,0.758
+Cybergoth,Health Goth,0.584
+Cybergoth,Cyberpunk,0.564
+Cybergoth,Indie Sleaze,0.541
+Cybergoth,Corporate Goth,0.521
+Cyberprep,Cybergoth,0.758
+Cyberprep,Cyberpunk,0.658
+Cyberprep,Health Goth,0.525
+Cyberprep,Indie Sleaze,0.508
+Cyberprep,Hypebeast,0.493
+Health Goth,Goth,0.646
+Health Goth,Corporate Goth,0.595
+Health Goth,Cybergoth,0.584
+Health Goth,Cyberprep,0.525
+Health Goth,Hypebeast,0.492
+Corporate Goth,Goth,0.649
+Corporate Goth,Health Goth,0.595
+Corporate Goth,Cybergoth,0.521
+Corporate Goth,Maximalism,0.468
+Corporate Goth,Dark Academia,0.458
+Goth,Corporate Goth,0.649
+Goth,Health Goth,0.646
+Goth,Indie Sleaze,0.534
+Goth,Cybergoth,0.519
+Goth,Maximalism,0.488
+Grandmacore,Cozycore,0.522
+Grandmacore,Bloomcore,0.515
+Grandmacore,Coastal Grandmother,0.498
+Grandmacore,Craftcore,0.485
+Grandmacore,Cottagecore,0.46
+Maximalism,Lifestyle Minimalism,0.6
+Maximalism,Cozycore,0.493
+Maximalism,Goth,0.488
+Maximalism,Health Goth,0.468
+Maximalism,Corporate Goth,0.468
+Lifestyle Minimalism,Maximalism,0.6
+Lifestyle Minimalism,Cottagecore,0.529
+Lifestyle Minimalism,Indie Sleaze,0.48
+Lifestyle Minimalism,Coastal Grandmother,0.479
+Lifestyle Minimalism,Health Goth,0.461

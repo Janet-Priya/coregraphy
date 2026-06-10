@@ -1,0 +1,10 @@
+pandas
+numpy
+sentence-transformers
+bertopic
+umap-learn
+hdbscan
+plotly
+scikit-learn
+jupyter
+tqdm
